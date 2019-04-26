@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro:400,400i,700,700i|EB+Garamond|Ubuntu+Mono');
+ul{
+    padding-top: 1em;
+    margin-top:  1em;
+    list-style: none;
+    background-color: black;
+    opacity: 0.9;
+}
+
+ul li{
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    background-color: #f8f40a;
+    text-align: center;
+    margin: 1.5em;
+    padding: 1.5em;
+}
+
+ul li:hover{
+    background-color: red ;
+}
+
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Ubuntu Mono', monospace;
+  background-image: url('./bg.jpg');
+  background-size: cover; 
+}
+
+
+

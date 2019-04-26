@@ -1,0 +1,13 @@
+.contacts{
+    color: aquamarine;
+    font: 20px;
+}
+.maintitle{
+ color: fuchsia;
+}
+.image{
+    background-image: url('./jambo.svg');
+    height: 500px;
+    width: 400px;
+ 
+}

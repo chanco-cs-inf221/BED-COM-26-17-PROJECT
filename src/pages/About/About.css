@@ -1,0 +1,11 @@
+.title{
+    text-align: center;
+    color: cyan;
+}
+.subtitle{
+    font: bold;
+    text-align: center;
+}
+ol{
+    font: italic bold;
+}

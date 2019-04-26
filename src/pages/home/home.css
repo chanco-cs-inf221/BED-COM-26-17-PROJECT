@@ -1,0 +1,24 @@
+
+.Clock {
+    margin: 1em;
+    padding: .5em;
+    color:white;
+    font-size: 75px;
+    font-weight: 100;
+   text-align: center;
+    border: solid;
+    border-radius: 20px;
+    justify-content: center;
+    align-content:center;
+    align-items:  center;
+ }
+ p{
+    font-size: 30px;
+    color: whitesmoke;
+    
+}
+h2{
+    color: rgb(4, 177, 245);
+}
+
+ 
